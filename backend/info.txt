@@ -1,0 +1,11 @@
+목표 : 연락처 프로그램 만들기
+개발방식 : rest API 방식
+
+포트구분 :
+  frontend : 3000
+  backend : 4000
+
+기술 스택 :
+  frontend : react
+  backend : Node & Express
+  데이터베이스 : MySQL  
